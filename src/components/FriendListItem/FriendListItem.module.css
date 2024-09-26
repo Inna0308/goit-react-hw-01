@@ -1,0 +1,26 @@
+.card {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.img {
+  margin-bottom: 8px;
+}
+
+.name {
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.status {
+  font-size: 16px;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
